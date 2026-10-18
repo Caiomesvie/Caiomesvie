@@ -31,6 +31,7 @@ Conecto pessoas, processos e tecnologia para que sistemas funcionem de verdade p
 | Automação e IA | Automação de rotinas, pipelines com IA generativa |
 | Dados | SQL, PostgreSQL, modelagem relacional e dimensional, PySpark |
 | Desenvolvimento | Python, JavaScript, React, React Native, Docker, Git |
+| Idiomas | Inglês avançado |
 
 ## Projetos em destaque
 
